@@ -10,6 +10,7 @@
 
 ## Plugins
 
+* [emotion-cache](https://github.com/measuredco/puck/tree/main/packages/plugin-emotion-cache): Inject emotion cache into the Puck iframe.
 * [heading-analyzer](https://github.com/measuredco/puck/tree/main/packages/plugin-heading-analyzer): Visualise your heading outline structure and identify missing heading levels.
 
 ## Custom fields
