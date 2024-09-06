@@ -20,6 +20,7 @@
 ## Components
 
 * [rich-text](https://www.npmjs.com/package/@tohuhono/puck-rich-text): A rich text component with an inline editor.
+* [puck-mui](https://www.npmjs.com/package/puck-mui): A collection of MUI components for easy integration with the puck editor.
 
 ## CMS/DXP Stacks
 
